@@ -10,6 +10,5 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ibrahimgurhandev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ibrahimgurhan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ibrahimCodes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](ibrahimgurhan.com)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimgurhandev&show_icons=true)  
-
-<p width="100%">![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ibrahimgurhandev)  </p>
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ibrahimgurhandev)
 
