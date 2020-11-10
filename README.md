@@ -20,6 +20,7 @@
 </div>
 </td><td valign="top" width="33%">
 ### Backend  
+ 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
@@ -29,6 +30,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />  
 </div>
 </td><td valign="top" width="33%">
+ 
 ### DevOps  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
@@ -39,6 +41,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
 </div>
 </td></tr></table>  
+<br />
 ## Connect with me  
 <div align="center">
 <a href="https://twitter.com/ibrahimCodes" target="_blank">
