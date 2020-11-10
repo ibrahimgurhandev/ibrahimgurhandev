@@ -96,13 +96,7 @@
 
 ## Github Stats  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ibrahimgurhandev&show_icons=true" align="center" width="40%"/>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ibrahimgurhandev&show_icons=true&locale=en" align="center" width="40%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimgurhandev" align="center" width="40%"/>
-</div>  
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahimgurhandev&show_icons=true&locale=en&layout=compact" alt="ibrahimgurhandev" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimgurhandev&show_icons=true&locale=en" alt="ibrahimgurhandev" /></p>
+</div> 
 
