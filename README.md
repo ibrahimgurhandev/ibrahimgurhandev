@@ -69,7 +69,7 @@
         <p> <a href="https://www.ibrahimgurhan.com" rel="nofollow">Site</a></p>
         <br>
         <a href="https://www.shawncharles.com" rel="nofollow">
-            <img src="https://media3.giphy.com/media/aUKBycWIVSGyTam4JT/giphy.gif width="100%" alt="Portfolio" data-canonical-src="https://media3.giphy.com/media/aUKBycWIVSGyTam4JT/giphy.gif" style="max-width:100%;">
+            <img src="https://media3.giphy.com/media/aUKBycWIVSGyTam4JT/giphy.gif" width="100%" alt="Portfolio" data-canonical-src="https://media3.giphy.com/media/aUKBycWIVSGyTam4JT/giphy.gif" style="max-width:100%;">
         </a>
         <p><strong>HTML5, CSS3, Bootstrap, Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
