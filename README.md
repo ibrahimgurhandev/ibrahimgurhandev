@@ -11,7 +11,5 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimgurhandev&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/ibrahimgurhandev)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ibrahimgurhandev)  
 
