@@ -1,5 +1,5 @@
 
-![](https://i.imgur.com/nVEsyFe.png)
+![](https://i.imgur.com/M5m4XMs.png)
 ### Hi there 👋, My name is Ibrahim
  I am Full Stack Software Engineer based in Boston, MA. I am proficent in both Front end development and Back-end development. I have extensive knowledge in HTML, CSS, Javascript, Node.Js and MongoDB. I am also a certified IT professional with numerous certifications including an AWS Cloud Solutions Architect certification..
 
