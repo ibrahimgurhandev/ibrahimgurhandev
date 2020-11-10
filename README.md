@@ -65,6 +65,5 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ibrahimgurhandev&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ibrahimgurhandev)
 
