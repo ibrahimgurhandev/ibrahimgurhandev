@@ -1,7 +1,7 @@
 
 ![](https://i.imgur.com/M5m4XMs.png)
 ### Hi there 👋, My name is Ibrahim
- I am Full Stack Software Engineer based in Boston, MA. I am proficent in both Front end development and Back-end development. I have extensive knowledge in HTML, CSS, Javascript, Node.Js and MongoDB. I am also a certified IT professional with numerous certifications including an AWS Cloud Solutions Architect certification..
+I am a Software Engineer based in Boston, MA. I am proficient in both Frontend development and Backend development. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, and React. I am also a certified IT professional with numerous certifications including an AWS Cloud Solutions Architect certification. As a software engineer, I aspire to help bring creative projects to life and demonstrate my commitment to developing world-class software solutions for your company.
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
